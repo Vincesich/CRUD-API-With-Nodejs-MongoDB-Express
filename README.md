@@ -11,7 +11,7 @@ This is a simple guide to set up a CRUD (Create, Read, Update, Delete) API using
 1. **Clone the repository**: Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/Vincesich/CRUD-API-With-Nodejs-MongoDB-Express/edit/main/README.md
+   git clone https://github.com/Vincesich/CRUD-API-With-Nodejs-MongoDB-Express
    ```
 
 2. **Navigate to the project directory**: Use the `cd` command to go into the project directory.
