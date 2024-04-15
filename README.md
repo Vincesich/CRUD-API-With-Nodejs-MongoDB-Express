@@ -23,7 +23,7 @@ This is a simple guide to set up a CRUD (Create, Read, Update, Delete) API using
 3. **Install dependencies**: Use npm to install the required dependencies.
 
    ```bash
-   npm install mongoose express
+   npm install mongoose
    npm install nodemon --save-dev
    npm i express
    ```
